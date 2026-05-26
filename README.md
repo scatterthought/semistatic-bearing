@@ -1,18 +1,22 @@
 # The semistatic bearing
 Official repository for the semistatic trackball bearing
 This semistatic bearing is intended for use in trackball pointing devices such as those sold by Ploopy and efog.tech. It features a free-spinning main bearing that sits on three embedded subbearings.
+
 But first, some background.
 
 ## Static bearings
 Most trackballs use static bearings: three tiny balls in a triangular pattern, with the main ball perched on them (like a tripod). The bearings are embedded in the shell and don't move at all (hence, "static").
+
 Static bearings are silent and inexpensive, but suffer from static friction ("stiction"): you have to apply enough force to dislodge the trackball when it's at rest, and when the ball finally moves it jumps too far. Stiction prevents small, precise movements. It's the bane of all trackballers.
 
 ## Ball transfer units
 A ball transfer unit (BTU) contains a big ball bearing sitting on top of a bunch of smaller subbearings that can all move within the bearing case. This allows the big bearing to spin freely, since there's very little friction slowing it down. However, BTUs can be noisy due to the ball bearings rattling inside the case.
+
 You won't find BTUs in consumer-focused devices (e.g. Logitech or Kensington), but they're popular in DIY trackballs and modifications. Bosch Rexroth produces the best BTUs, but they're difficult to buy in small quantities and expensive when you can get them (typically CAD$15-20 per unit).
 
 ## Put those hands together!
 My semistatic design merges the static and BTU concepts. It has a main bearing sitting on subbearings (like a BTU), but the subbearings are embedded and don't spin (like a static bearing).
+
 It was originally designed as a drop-in replacement for the Bosch Rexroth 8mm BTU often used in modified Ploopy trackballs and the efog.tech Endgame trackball. I've since added a version to replace Veichu 7.5mm BTUs.
 
 ## Is it better?
@@ -33,6 +37,7 @@ Bosch Rexroths are still the absolute best if you want extremely low friction, 
 
 ## Print settings
 All models are designed for 0.2mm layers.
+
 - I recommend ironing (on all surfaces) for bearings with flat tops.
 - No other special settings are required.
 
