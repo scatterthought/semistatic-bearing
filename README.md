@@ -35,8 +35,8 @@ Bosch Rexroths are still the absolute best if you want extremely low friction, 
 - [Bosch Rexroth KU-B8-OFK (8mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/readme.md)
 - [Veichu VCN310 (7.5mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu/readme.md)
 
-### Press-fit bearings
-- [2.5mm press-fit bearings](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings)
+### General use and remixing
+- [Press-fit bearings](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings)
 
 Additional models will be added over time, and I'm happy to consider requests (within reason).
 
