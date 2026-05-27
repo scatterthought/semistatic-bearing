@@ -5,7 +5,7 @@ This semistatic bearing is intended for use in trackball pointing devices such a
 
 Learn more about static bearings and BTUs in [the project background](https://github.com/scatterthought/semistatic-bearing/blob/main/background.md).
 
-## Is it better?
+## Benefits
 I'm confident that a semistatic bearing is better than a static bearing or a cheap BTU. It's smooth and quiet, stiction is virtually non-existent, and supplies are easy to get online. It's also easy to clean since the bearings are exposed.
 
 And then there's the cost.
