@@ -1,6 +1,6 @@
 # Bosch Rexroth
 
-<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30.jpg" alt="Semistatic bearing with 3.0mm Silicon Nitride balls" title="Semistatic bearing with 3.0mm Silicon Nitride balls" width="600">
+<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30-endgame.jpg" alt="Semistatic bearings in an Endgame trackball" title="Semistatic bearings in an Endgame trackball" width="600">
 
 ## KU-B8-OFK (8mm BTU)
 [Manufacturer's technical information](https://store.boschrexroth.com/en/ca/p/ball-transfer-unit-r053010810)
