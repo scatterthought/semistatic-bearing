@@ -1,5 +1,4 @@
 # The semistatic bearing
-Official repository for the semistatic trackball bearing
 This semistatic bearing is intended for use in trackball pointing devices such as those sold by Ploopy and efog.tech. It features a free-spinning main bearing that sits on three embedded subbearings.
 
 ## Background
@@ -17,7 +16,7 @@ You won't find BTUs in consumer-focused devices (e.g. Logitech or Kensington), b
 ## Put those hands together!
 My semistatic design merges the static and BTU concepts. It has a main bearing sitting on subbearings (like a BTU), but the subbearings are embedded and don't spin (like a static bearing).
 
-My designs use the same sizes for the main ball and subbearings. It would be possible to use smaller subbearings, but since they don't spin their size is irrelevant. They just provide three static points of low-friction contact for the main bearing. So, it's more cost-effective to use the same size for all four balls (which can be bought in packs of 25/50/100/200).
+In all of my models, the main ball and subbearings are the same size. It would be possible to use smaller balls for subbearings, but since they don't spin their size is irrelevant. They just provide three static points of low-friction contact for the main bearing. So, it's more cost-effective to use the same size for all four balls (which can be bought in packs of 25/50/100/200).
 
 ## Is it better?
 I'm confident that a semistatic bearing is better than a static bearing or a cheap BTU. It's smooth and quiet, stiction is virtually non-existent, and supplies are easy to get online. It's also easy to clean since the bearings are exposed.
