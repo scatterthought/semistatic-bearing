@@ -3,7 +3,12 @@
 ## KU-B8-OFK (8mm BTU)
 [Manufacturer's technical information](https://store.boschrexroth.com/en/ca/p/ball-transfer-unit-r053010810)
 
+### Models
 This model uses 2.5mm, 3mm, or 3.5mm balls for the main bearing and subbearings.There are slots in the tops of the cases that can be gripped with a keyboard-switch puller for easy removal from a trackball.
+
+- [2.5mm ball bearings](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-25mm.stl)
+- [3.0mm ball bearings](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-30mm.stl)
+- [3.5mm ball bearings](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-35mm.stl)
 
 ### Assembly
 1. Drop three balls into the three sockets in the bearing case.
@@ -24,6 +29,8 @@ I designed a couple of other Bosch Rexroth 8mm equivalents that use screws as su
 
 ### Grub screws
 I originally designed with ballpoint set screws in mind. Three M4x6mm screws are inserted into the holes pointing upward and adjusted to support the main bearing.
+- [Grub-screw semistatic bearing](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-grubscrews.stl)
 
 ### Button-head screws
 This model uses the round tops of M2x4 button-head screws as the subbearings. Three M2 button-head screws (4mm or 6mm) are inserted into the bearing case, then raised to support the main bearing.
+- [Button-head semistatic bearing](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-buttonhead.stl)
