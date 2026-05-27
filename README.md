@@ -13,7 +13,9 @@ Static bearings are silent and inexpensive, but suffer from static friction ("st
 ### Ball transfer units
 A ball transfer unit (BTU) contains a big ball bearing sitting on top of a bunch of smaller subbearings that can all move within the bearing case. This allows the big bearing to spin freely, since there's very little friction slowing it down. However, BTUs can be noisy due to the ball bearings rattling inside the case.
 
-You won't find BTUs in consumer-focused devices (e.g. Logitech or Kensington), but they're popular in DIY trackballs and modifications. Bosch Rexroth produces the best BTUs, but they're difficult to buy in small quantities and expensive when you can get them (typically CAD$15-20 per unit).
+You won't find BTUs in most consumer-focused devices (e.g. Logitech or Kensington), but they're popular in DIY trackballs and modifications. Bosch Rexroth produces the best BTUs, but they're difficult to buy in small quantities and expensive when you can get them (typically CAD$15-20 per unit).
+
+_Side note: Elecom has announced a BTU option for their IST and Huge Plus trackballs._
 
 ## Put those hands together!
 My semistatic design merges the static and BTU concepts. It has a main bearing sitting on subbearings (like a BTU), but the subbearings are embedded and don't spin (like a static bearing).
