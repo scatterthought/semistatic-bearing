@@ -1,3 +1,5 @@
+![Semistatic bearing with 3.0mm Silicon Nitride balls](https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30.jpg "Semistatic bearing with 3.0mm Silicon Nitride balls")
+
 # The semistatic bearing
 This semistatic bearing is intended for use in trackball pointing devices such as those sold by [Ploopy](https://ploopy.co) and [efog.tech](efog.tech). It features a free-spinning main bearing that sits on three embedded subbearings.
 
