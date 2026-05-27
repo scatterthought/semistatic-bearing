@@ -1,4 +1,4 @@
-![Semistatic bearing in an Endgame trackball](https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30-endgame.jpg "Semistatic bearing in an Endgame trackball")
+<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30.jpg" alt="Semistatic bearing with 3.0mm Silicon Nitride balls" title="Semistatic bearing with 3.0mm Silicon Nitride balls" width="600">
 
 # The semistatic bearing
 This semistatic bearing is intended for use in trackball pointing devices such as those sold by [Ploopy](https://ploopy.co) and [efog.tech](efog.tech). It features a free-spinning main bearing that sits on three embedded subbearings, merging the concepts from static bearings and ball transfer units (BTUs).
