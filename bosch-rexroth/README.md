@@ -2,6 +2,8 @@
 
 <img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30-endgame.jpg" alt="Semistatic bearings in an Endgame trackball" title="Semistatic bearings in an Endgame trackball" width="600">
 
+Bosch Rexroth ball transfer units (BTUs) are the best of the best. As a result, many trackball mods are designed specifically for them.
+
 ## KU-B8-OFK (8mm BTU)
 [Manufacturer's technical information](https://store.boschrexroth.com/en/ca/p/ball-transfer-unit-r053010810)
 
@@ -22,9 +24,12 @@ This model uses 2.5mm, 3mm, or 3.5mm balls for the main bearing and subbearings.
 - Point the claw into your hand (or a container) to catch the bearings when they pop out, or you may never see them again!
 
 ### Spacers
-Compared to Bosch Rexroth 8mm BTUs, these models are little shorter overall when bearings are installed. If they don't make proper contact with the trackball, use spacers to increase the height. I think this is a better option than the bearings being too tall in some cases.
+These semistatic models are a little shorter (10.7mm) than the BR 8mm BTU (11.2mm). If they don't make proper contact with the trackball, use spacers to increase the height. I think this is a better option than the bearings being too tall in some cases.
 
-The spacer is 12.6mm in diameter and 0.6mm in height (which will print three layers at 0.2mm). You can change these dimensions in your slicer to suit your needs.
+Both spacers are 0.6mm in height, which will print in three layers at 0.2mm. You can change the height in your slicer to adjust your spacing. In some cases, you may only want spacers on one or two of the three bearings in your trackball.
+
+- [Ring](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-ring.stl) (12.6mm inner diameter, 15mm outer diameter)
+- [Riser](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-riser.stl) (12.6mm outer diameter)
 
 ## Alternative subbearings
 I designed a couple of other Bosch Rexroth 8mm equivalents that use screws as subbearings. I'm publishing them more out of interest than usefulness.
