@@ -1,5 +1,5 @@
 # The semistatic bearing
-This semistatic bearing is intended for use in trackball pointing devices such as those sold by Ploopy and efog.tech. It features a free-spinning main bearing that sits on three embedded subbearings.
+This semistatic bearing is intended for use in trackball pointing devices such as those sold by [Ploopy](https://ploopy.co) and [efog.tech](efog.tech). It features a free-spinning main bearing that sits on three embedded subbearings.
 
 ## Background
 
