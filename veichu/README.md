@@ -1,7 +1,6 @@
 # Semistatic bearing replacements for Veichu BTUs
 
-![Semistatic bearing in Ploopy Nano](https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-vc75-ploopy-nano.jpg "Semistatic bearing in Ploopy Nano")
-
+<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-vc75-ploopy-nano.jpg" alt="Semistatic bearing in Ploopy Nano" title="Semistatic bearing in Ploopy Nano" width="600">
 
 ## VCN310 (7.5mm)
 [Manufacturer's technical information](https://www.veichu.com/VCN310-Stainless-Steel-Ball-Transfer-Unit-pd585435958.html)
