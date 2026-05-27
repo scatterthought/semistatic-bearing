@@ -11,6 +11,10 @@ There are versions with open and closed tops, both with 2.5mm ball bearings. The
 3. Perch a 2.5mm ball on top of the claw.
 4. Press the ball down to click it into place.
 
+### Disassembly
+- To remove the main bearing, push a small hex key (or something similar) through the 2mm hole in the bottom of the case.
+- Point the claw into your hand (or a container) to catch the bearings when they pop out, or you may never see them again!
+
 ### Short versions
 
 In addition to the regular-sized Veichu equivalents, there are short versions that are ideal for press-fit applications with limited space.
