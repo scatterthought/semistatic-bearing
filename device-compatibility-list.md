@@ -1,6 +1,6 @@
 # Device compatibility list
 
-If you have semistatic bearings working in a device or want to test a device and need assistance, please [open an issue](https://github.com/scatterthought/semistatic-bearing/issues) so that it can be added to the compatibility list.
+If you have semistatic bearings working in a device or want to test and need assistance, please [open an issue](https://github.com/scatterthought/semistatic-bearing/issues).
 
 ## Confirmed working
 
