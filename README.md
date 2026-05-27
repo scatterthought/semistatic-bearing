@@ -31,14 +31,15 @@ And then there's the cost.
 Bosch Rexroths are still the absolute best if you want extremely low friction, are okay with some noise, and don't mind paying for the experience. The semistatic bearing is for everyone else...or as a stopgap while you're waiting for BTUs to arrive in the mail.
 
 ## Available models
+Additional models will be added over time, and I'm happy to consider requests (within reason).
+
 ### BTU replacements
+
 - [Bosch Rexroth KU-B8-OFK (8mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/readme.md)
 - [Veichu VCN310 (7.5mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu/readme.md)
 
 ### General use and remixing
 - [Press-fit bearings](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings)
-
-Additional models will be added over time, and I'm happy to consider requests (within reason).
 
 ## Considerations
 - The three-pointed claw is the only thing keeping the ball bearings from spilling out. I've found it to be very secure and there shouldn't ever be much force on it, but there's a small chance that it will break if the bearing is handled roughly. It may also wear down if you frequently remove the balls.
