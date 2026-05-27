@@ -3,7 +3,11 @@
 ## VCN310 (7.5mm)
 [Manufacturer's technical information](https://www.veichu.com/VCN310-Stainless-Steel-Ball-Transfer-Unit-pd585435958.html)
 
-There are versions with open and closed tops, both with 2.5mm ball bearings. The subbearings are more secure in the closed-top version, but are harder to remove.
+### Models
+This model is a replacement for the VCN310 7.5mm bearing. There are versions with open and closed tops, both with 2.5mm ball bearings. The subbearings are more secure in the closed-top version, but are harder to remove.
+
+- [Closed top](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu/semistatic-vc75-closed.stl)
+- [Open top](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu/semistatic-vc75-open.stl)
 
 ### Assembly
 1. Press three 2.5mm balls into the three sockets in the bearing case.
