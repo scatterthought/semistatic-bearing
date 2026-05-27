@@ -1,5 +1,6 @@
 # Bosch Rexroth
-![Semistatic bearing with 3.0mm Silicon Nitride balls](https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30.jpg "Semistatic bearing with 3.0mm Silicon Nitride balls")
+
+<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30.jpg" alt="Semistatic bearing with 3.0mm Silicon Nitride balls" title="Semistatic bearing with 3.0mm Silicon Nitride balls" width="600">
 
 ## KU-B8-OFK (8mm BTU)
 [Manufacturer's technical information](https://store.boschrexroth.com/en/ca/p/ball-transfer-unit-r053010810)
@@ -29,9 +30,13 @@ The spacer is 12.6mm in diameter and 0.6mm in height (which will print three lay
 I designed a couple of other Bosch Rexroth 8mm equivalents that use screws as subbearings. I'm publishing them more out of interest than usefulness.
 
 ### Grub screws
+<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-grub-screw-endgame.jpg" alt="Semistatic bearing with grub screws in Endgame" title="Semistatic bearing with grub screws in Endgame" width="300">
+
 I originally designed with ballpoint set screws in mind. Three M4x6mm screws are inserted into the holes pointing upward and adjusted to support the main bearing.
 - [Grub-screw semistatic bearing](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-grubscrews.stl)
 
 ### Button-head screws
+<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-button-head-screws.jpg" alt="Semistatic bearing with button-head screws" title="Semistatic bearing with button-head screws" width="300">
+
 This model uses the round tops of M2x4 button-head screws as the subbearings. Three M2 button-head screws (4mm or 6mm) are inserted into the bearing case, then raised to support the main bearing.
 - [Button-head semistatic bearing](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/semistatic-br8-buttonhead.stl)
