@@ -18,6 +18,15 @@ My semistatic design merges the static and BTU concepts. It has a main bearing s
 
 In all of my models, the main ball and subbearings are the same size. It would be possible to use smaller balls for subbearings, but since they don't spin their size is irrelevant. They just provide three static points of low-friction contact for the main bearing. So, it's more cost-effective to use the same size for all four balls (which can be bought in packs of 25/50/100/200).
 
+## Models
+Semistatic bearings are available as:
+
+- [Bosch Rexroth KU-B8-OFK (8mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/readme.md) BTU replacements
+- [Veichu VCN310 (7.5mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu/readme.md) BTU replacements
+- [Press-fit bearings](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings)
+
+Additional models will be added over time, and I'm happy to consider requests (within reason).
+
 ## Is it better?
 I'm confident that a semistatic bearing is better than a static bearing or a cheap BTU. It's smooth and quiet, stiction is virtually non-existent, and supplies are easy to get online. It's also easy to clean since the bearings are exposed.
 And then there's the cost.
@@ -44,6 +53,3 @@ All models are designed for 0.2mm layers.
 Any ball bearings should work, but I recommend ceramic balls of at least G10 (preferably G5).
 - You'll need four ball bearings for each semistatic bearing.
 - My testing has mostly been done with [uxcell 3mm Silicon Nitride G5](https://www.amazon.ca/dp/B0B5XK3BTM) and [uxcell 2.5mm Zirconium Oxide G5](https://www.amazon.ca/dp/B0B5XKBSV6/) ceramic ball bearings.
-
-## Requests
-I'm happy to consider adding variations by request (within reason).
