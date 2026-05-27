@@ -35,17 +35,17 @@ Bosch Rexroths are still the absolute best if you want extremely low friction, 
 ## Available models
 Additional models will be added over time, and I'm happy to consider requests (within reason).
 
-### BTU replacements
-
-- [Bosch Rexroth KU-B8-OFK (8mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth)
-- [Veichu VCN310 (7.5mm)](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu)
-
-### General use and remixing
-- [Press-fit bearings](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings)
+| Semistatic bearing | Comments |
+| ---- | ---- |
+| [BR8](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth) | Replaces Bosch Rexroth 8mm BTU (KU-B8-OFK) |
+| [VC75](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu) | Replaces Veichu 7.5mm BTU (VCN310) |
+| NL8H (in development) | Replaces generic NL-8H POM BTU |
+| FLFT (in development) | Flush-fit bearing to replace static bearings in mass-market trackballs |
+| [PRFT](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings) | Minimal models for press-fit and remixing |
 
 ## Device compatibility list
 
-A [list of devices](https://github.com/scatterthought/semistatic-bearing/blob/main/device-compatibility-list.md) that are in testing or have been confirmed to work with semistatic bearings.
+I'm curating a [list of compatible devices](https://github.com/scatterthought/semistatic-bearing/blob/main/device-compatibility-list.md). If you have semistatic bearings working in a device or want to test and need assistance, please [open an issue](https://github.com/scatterthought/semistatic-bearing/issues).
 
 ## Considerations
 - The three-pointed claw is the only thing keeping the ball bearings from spilling out. I've found it to be very secure and there shouldn't ever be much force on it, but there's a small chance that it will break if the bearing is handled roughly. It may also wear down if you frequently remove the balls.
