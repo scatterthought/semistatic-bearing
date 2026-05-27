@@ -43,6 +43,10 @@ Additional models will be added over time, and I'm happy to consider requests (w
 ### General use and remixing
 - [Press-fit bearings](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings)
 
+## Device compatibility list
+
+A [list of devices](https://github.com/scatterthought/semistatic-bearing/blob/main/device-compatibility-list.md) that are in testing or have been confirmed to work with semistatic bearings.
+
 ## Considerations
 - The three-pointed claw is the only thing keeping the ball bearings from spilling out. I've found it to be very secure and there shouldn't ever be much force on it, but there's a small chance that it will break if the bearing is handled roughly. It may also wear down if you frequently remove the balls.
 	- If you travel with your trackball a lot, you might want to carry some extra bearings.
