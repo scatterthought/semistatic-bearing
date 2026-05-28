@@ -24,7 +24,7 @@ This model uses 2.5mm, 3mm, or 3.5mm balls for the main bearing and subbearings.
 - Point the claw into your hand (or a container) to catch the bearings when they pop out, or you may never see them again!
 
 ### Spacers
-These semistatic models are a little shorter (10.7mm) than the BR 8mm BTU (11.2mm). If they don't make proper contact with the trackball, use spacers to increase the height. I think this is a better option than the bearings being too tall in some cases.
+If your bearings don't make proper contact with the trackball, use spacers to raise them in their sockets. The Device Compatibility List provides some tips, but it can be a bit of trial and error. This is particularly the case with trackball mods designed for a range of trackball sizes.
 
 Both spacers are 0.6mm in height, which will print in three layers at 0.2mm. You can change the height in your slicer to adjust your spacing. In some cases, you may only want spacers on one or two of the three bearings in your trackball.
 
