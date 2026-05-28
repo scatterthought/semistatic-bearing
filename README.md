@@ -16,7 +16,9 @@ And then there's the cost.
 
 The downside is, of course, that semistatic bearings are 3D-printed. So you have to access to a 3D printer and they won't be as durable as injection-moulded plastic or steel casings.
 
-Bosch Rexroths are still the absolute best choice if you want extremely low friction, are okay with some noise, and don't mind paying for the experience. The semistatic bearing is for everyone else...or as a stopgap while you're waiting for BTUs to arrive in the mail.
+You're also still going to feel resistance similar to a static bearing, because there's still friction from the embedded bearings. You just won't have to fight stiction when you first move the ball. The amount of resistance you will depend on the types of bearings you use and the weight/surface of the larger trackball (e.g. glossy versus matte finish).
+
+Bosch Rexroth BTUs are still the absolute best choice if you want extremely low friction, are okay with some noise, and don't mind paying for the experience. The semistatic bearing is for everyone else...or as a stopgap while you're waiting for the BTUs you ordered to arrive.
 
 ## Available models
 Additional models will be added over time, and I'm happy to consider requests (within reason).
