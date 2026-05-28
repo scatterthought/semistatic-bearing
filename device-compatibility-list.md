@@ -7,7 +7,7 @@ If you have semistatic bearings working in a device or want to test and need ass
 | Device | Semistatic bearing | Comments |
 | ---- | ---- | ---- |
 | [efog.tech Endgame](https://efog.tech/products/endgame-trackball-complete-diy-kit) | [BR8](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/README.md) | 
-| [Ploopy Adept](https://ploopy.co/adept-trackball/) - [Anyball mod](https://github.com/adept-anyball/) | [BR8](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/README.md) | May require 1mm spacer rings |
+| [Ploopy Adept](https://ploopy.co/adept-trackball/) - [Anyball mod](https://github.com/adept-anyball/) | [BR8](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/README.md) | Requires 2.4mm spacer ring for OEM 44mm ball;<br>Requires 1.2mm spacer ring for 52mm ball |
 | Ploopy Classic 1 - [BTU Mod](https://github.com/ploopyco/classic-trackball/tree/master/hardware/Mechanicals-BTU-Mod) | [BR8](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/README.md) | 4mm spacers on two of the three BTU sockets |
 | [Ploopy Classic 2](https://ploopy.co/classic-2-trackball/) - [BTU Mod](https://codeberg.org/killmaster/Ploopy-Classic-2-BTU) | [BR8](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth/README.md) | 8mm spacer on one of the BTU sockets |
 
