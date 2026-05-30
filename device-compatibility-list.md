@@ -2,7 +2,7 @@
 
 If you have semistatic bearings working in a device or want to test and need assistance, please [open an issue](https://github.com/scatterthought/semistatic-bearing/issues).
 
-## Confirmed working
+## Tested successfully
 
 | Device | Semistatic bearing | Comments |
 | ---- | ---- | ---- |
