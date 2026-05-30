@@ -1,6 +1,6 @@
 # Bosch Rexroth
 
-<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-br8-30-endgame.jpg" alt="Semistatic bearings in an Endgame trackball" title="Semistatic bearings in an Endgame trackball" width="600">
+<img src="/images/semistatic-br8-30.jpg" alt="Semistatic bearings in an Endgame trackball" title="Semistatic bearings in an Endgame trackball" width="600">
 
 Bosch Rexroth ball transfer units (BTUs) are the best of the best. As a result, many trackball mods are designed specifically for them.
 
