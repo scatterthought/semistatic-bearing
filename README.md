@@ -28,8 +28,8 @@ Additional models will be added over time, and I'm happy to consider requests (w
 | [BR8](https://github.com/scatterthought/semistatic-bearing/blob/main/bosch-rexroth) | Replaces Bosch Rexroth 8mm BTU (KU-B8-OFK) |
 | [VC75](https://github.com/scatterthought/semistatic-bearing/blob/main/veichu) | Replaces Veichu 7.5mm BTU (VCN310) |
 | NL8H (in development) | Replaces generic NL-8H POM BTU |
-| FLMT (in development) | Flushmount bearing to replace static bearings in mass-market trackballs |
-| [PRFT](https://github.com/scatterthought/semistatic-bearing/tree/main/press-fit-bearings) | Minimal models for press-fit and remixing |
+| [FLMT](https://github.com/scatterthought/semistatic-bearing/tree/main/custom-bearings) (untested) | Flushmount bearing to replace static bearings in mass-market trackballs |
+| [PRFT](https://github.com/scatterthought/semistatic-bearing/tree/main/custom-bearings) | Minimal models for press-fit and remixing |
 
 ## Device compatibility list
 
