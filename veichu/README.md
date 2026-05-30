@@ -1,6 +1,6 @@
 # Semistatic bearing replacements for Veichu BTUs
 
-<img src="https://github.com/scatterthought/semistatic-bearing/blob/main/images/semistatic-vc75-ploopy-nano.jpg" alt="Semistatic bearing in Ploopy Nano" title="Semistatic bearing in Ploopy Nano" width="600">
+<img src="/images/semistatic-vc75-ploopy-nano.jpg" alt="Semistatic bearing in Ploopy Nano" title="Semistatic bearing in Ploopy Nano" width="600">
 
 Veichu makes mid-grade BTUs that can vary in quality. They aren't as smooth or quiet as Bosch Rexroth BTUs, but are 1/3rd of the price.
 
