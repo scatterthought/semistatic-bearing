@@ -42,6 +42,12 @@ My design employs a three-pointed claw to hold the main bearing in place, and it
 
 If your trackball lives on your desktop, I wouldn't expect the semistatic bearings to fail. However, you might want to keep some extras handy if you travel with it regularly.
 
+### Printer tolerances
+Depending on your printer and filiment, the claws may be too tight or too loose. Every 3D printer is different, and it's impossible to produce models that will work on all of them.
+
+- If a claw is too tight, you can sand the tips to loosen its grip on the ball bearing. Just be very careful to not remove too much material. Even just 0.01mm can make a difference.
+- If a claw is too loose, try adding nail polish or glue to the top and tip. Again, you don't want to add too much.
+
 ### Maintenance
 The bearing can be easily disassembled for cleaning or recovering/reusing parts. If you prefer a more permanent solution, the subbearings can be glued/caulked in place.
 
