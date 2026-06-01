@@ -15,8 +15,7 @@ If you have semistatic bearings working in a device or want to test and need ass
 ### Trackball keyboards
 | Device | Semistatic bearing | Comments |
 | ---- | ---- | ---- |
-| [BastardKB Charybdis Keyboard - Rexroth BTU Mod](https://github.com/Bastardkb/Charybdis/blob/main/files/mods/readme.md#veichu-bearing-mod) | BR8 | [See make/comment on Printables](https://www.printables.com/make/3449131?comment_id=3449131) |
-| [BastardKB Charybdis Keyboard - Veichu BTU Mod](https://github.com/Bastardkb/Charybdis/blob/main/files/mods/readme.md#btu-mod) | VC75 | [See make/comment on Printables](https://www.printables.com/make/3449131?comment_id=3449131) |
+| [BastardKB Charybdis Keyboard - Veichu BTU Mod](https://github.com/Bastardkb/Charybdis/blob/main/files/mods/readme.md#btu-mod) | VC75 | [More information on Printables](https://www.printables.com/make/3449131?comment_id=3454264) |
 
 ## Testing in progress
 
