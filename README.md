@@ -1,7 +1,7 @@
 <img src="images/20260530_113012.jpg" alt="Semistatic bearings" title="Semistatic bearings" width="600">
 
 # The semistatic bearing
-This semistatic bearing is intended for use in trackball pointing devices such as those sold by [Ploopy](https://ploopy.co) and [efog.tech](efog.tech). It features a free-spinning main bearing that sits on three embedded subbearings, merging the concepts from static bearings and ball transfer units (BTUs).
+This semistatic bearing is intended for use in trackball pointing devices such as those sold by [Ploopy](https://ploopy.co) and [efog.tech](https://efog.tech). It features a free-spinning main bearing that sits on three embedded subbearings, merging the concepts from static bearings and ball transfer units (BTUs).
 
 Learn more about static bearings and BTUs in [the project background](https://github.com/scatterthought/semistatic-bearing/blob/main/background.md).
 
