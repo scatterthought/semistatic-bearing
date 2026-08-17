@@ -7,5 +7,6 @@ This version is designed to fit in a hole drilled into a trackball's ball cradle
 
 # Press-fit bearings
 These compact versions are ideal for press-fit applications with limited space.
+- [3.0mm ball bearings, 9mm diameter x 5mm height](/custom-bearings/semistatic-flmt-30mm-9x5.stl)
 - [2.5mm ball bearings with closed top](/custom-bearings/semistatic-prft-25mm-closed.stl)
 - [2.5mm ball bearings with open top ](/custom-bearings/semistatic-prft-25mm-open.stl)
